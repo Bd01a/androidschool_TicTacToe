@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">androidschool_TicTacToe</string>
+    <string name="new_game">Заново</string>
+    <string name="exit">Выход</string>
+    <string name="cross">Крестики</string>
+    <string name="zero">Нолики</string>
+    <string name="no_winner">Ничья</string>
+    <string name="initial_count">0</string>
+</resources>

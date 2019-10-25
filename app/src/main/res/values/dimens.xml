@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_field_view">8dp</dimen>
+    <dimen name="padding_counters">8dp</dimen>
+    <dimen name="margin_botton_counter">64dp</dimen>
+
+    <integer name="animation_duration_game_end_layout">600</integer>
+    <dimen name="animation_translation_game_end_layout">100dp</dimen>
+</resources>
